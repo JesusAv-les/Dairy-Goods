@@ -44,6 +44,7 @@ Here we can analyze which product is the one people tend to buy the most, additi
 which city is the one that spends the most on this kind of goods in general, the reason of this could be the size of the population 
 or the purchasing power.
 
+#Insights
 
 
 
